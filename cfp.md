@@ -38,8 +38,8 @@ Submissions  to ROSE are an abstract  (1page pdf, max) for a proposed lightning 
 
 - A prior SE publication (Paper1) which has been replicated/reproduced.
 - Substantive evidence that that parts of Paper1 has been replicated/reproduced. This evidence must be substantive e.g.
-      - A recent research SE paper (Paper2)
-      - A Url links to an as yet unpublished pre-print
+     - A recent research SE paper (Paper2)
+     - A Url links to an as yet unpublished pre-print
 
 
 Note that Paper1 and Paper2 can come from any SE venue (ideally, peer-reviewed but if otherwise, reviewers will assess the paper on a case-by-case basis).
