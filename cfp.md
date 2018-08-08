@@ -74,3 +74,5 @@ The top 10 abstracts (or more, if there is time), will be invited to give lightn
 ROSE adopts the    ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
 
 ![](etc/img/acm.png)
+
+**IMPORTANT POINT:** Replication is more than just "they downloaded by scripts and ran exaxtly those". There must be something changed in the replication work (but perhaps that change is not very large).
