@@ -32,7 +32,9 @@ Note that:
  
 ## HOW TO SUBMIT:
 
-Submissions  to ROSE are a abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
+Email submission to timm@ieee.org with the subject line "ROSE-FSE18 submission".
+
+Submissions  to ROSE are an abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
 - A prior SE publication (Paper1) which has been replicated/reproduced.
 - Substantive evidence that that parts of Paper1 has been replicated/reproduced. This evidence must be substantive e.g.
