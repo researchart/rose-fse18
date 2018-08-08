@@ -1,6 +1,6 @@
 # (UN) License
 
-<img src="etc/img/unlicense.png" align=left width=400>
+<img src="etc/img/unlicense.png" align=right width=400>
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
