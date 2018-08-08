@@ -1,13 +1,12 @@
 # Call for Presentations
 
-Due Sept 15, 2018
+##  The ROSE Festival, FSE 2018 
+##  Recognizing and Rewarding Open Science in Software Engineering  
 
-The ROSE Festival, FSE 2018   
-Recognizing and Rewarding Open Science in Software Engineering  
+Due Sept 15, 2018.  
 Co-lcated with  [FSE 2018](https://2018.fseconference.org/track/fse-2018-The-ROSE-Festival-Recognizing-and-Rewarding-Open-Science-in-Software-Engineering). 
 
 ![](etc/img/rose.png)     
-
 
 
 Chairs:
@@ -16,7 +15,7 @@ Chairs:
 - Tim Menzies, NC State University, USA
 - Thomas Zimmermann, Microsoft Research, USA
 
-_____
+ 
 ## Aim
 
 The ROSE festival is a world-wide salute to replication and reproducibility in SE (for a definition of these terms, see the end of this CFP).
@@ -30,7 +29,7 @@ Note that:
 - ROSE is a non-archival forum. Material presented at ROSE may also be submitted to other forums. S 
 - A journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
 
-____
+ 
 ## HOW TO SUBMIT:
 
 Submissions  to ROSE are a abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
@@ -55,7 +54,6 @@ To facilitate easy reviewing, authors are encouraged to following the following 
 
 
 
-________
 ## EVALUATION:
 
 
@@ -69,8 +67,7 @@ The top 10 abstracts (or more, if there is time), will be invited to give lightn
 
 (*) Our goal is to foster a positive environment that supports and rewards researchers for conducting replications and reproductions.  To that end, we require that all ROSE abstracts and presentations pay due respect to the work they are reproducing/replicating. Criticisms of prior work is acceptable only as part of a balanced and substantive discussion of prior accomplishments.
 
-=====================
-DEFINITIONS:
+## DEFINITIONS:
 
 ROSE adopts the    ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
 
