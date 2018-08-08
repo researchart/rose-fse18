@@ -25,9 +25,10 @@ Our aim is to create a venue where researchers can receive public credit for fac
 
 Enter ROSE. ROSE is a 90 minute session comprising lightning talks by researchers presenting replicated and reproduced results, followed by a panel discussing issues of replication in software engineering. Presentations can be about any prior SE publication (and is not restricted just to results from ESEC/FSE’18).
 
-ROSE is a non-archival forum. Material presented at ROSE may also be submitted to other forums. Submissions are very short (1 to 3 pages). For full details, see
+Note that:
 
-A journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
+- ROSE is a non-archival forum. Material presented at ROSE may also be submitted to other forums. S 
+- A journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
 
 ____
 ## HOW TO SUBMIT:
@@ -36,44 +37,32 @@ Submissions  to ROSE are a abstract  (1page pdf, max) for a proposed lightning t
 
 - A prior SE publication (Paper1) which has been replicated/reproduced.
 - Substantive evidence that that parts of Paper1 has been replicated/reproduced. This evidence must be substantive e.g.
-
-A recent research SE paper (Paper2)
-
-Url links to an as yet unpublished pre-print
+      - A recent research SE paper (Paper2)
+      - A Url links to an as yet unpublished pre-print
 
 
 Note that Paper1 and Paper2 can come from any SE venue (ideally, peer-reviewed but if otherwise, reviewers will assess the paper on a case-by-case basis).
 
-
 To facilitate easy reviewing, authors are encouraged to following the following format for their abstract:
 
-TITLE: “A [ Partial] (Replication|Reproduction) of XYZ”. Please add the term “partial” to your title if only some of the original work could be replicated/reproduced.
-
-WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
-
-WHAT: describe the “thing” being replicated/reproduced;
-
-WHY: clearly state why that “thing” is interesting/important;
-
-HOW: say how it was done first
-
-WHERE: describe the replication/reproduction. If the replication/reproduction was only partial, then explain what parts could be achieved or had to be missed.
-
-DISCUSSION: What aspects of this thing made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.
-
-References
+- TITLE: “A [ Partial] (Replication|Reproduction) of XYZ”. Please add the term “partial” to your title if only some of the original work could be replicated/reproduced.
+- WHO: name the original authors (and paper) and the authors that performed the replication/reproduction.
+- WHAT: describe the “thing” being replicated/reproduced;
+- WHY: clearly state why that “thing” is interesting/important;
+- HOW: say how it was done first
+- WHERE: describe the replication/reproduction. If the replication/reproduction was only partial, then explain what parts could be achieved or had to be missed.
+- DISCUSSION: What aspects of this thing made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.
 
 
-EVALUATION:
+
+________
+## EVALUATION:
 
 
-2 PC members will review each abstract, possibly reaching out to the authors of the original Paper1.   Abstracts will be ranked as follows.
-
-If pc members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.  
-
-Any abstract that is overly critical of prior work, it will be rejected (*).
-
-The remaining abstracts will be sorted according to (a) interestingness and (b) correctness.  
+- 2 PC members will review each abstract, possibly reaching out to the authors of the original Paper1.   Abstracts will be ranked as follows.
+- If pc members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.  
+- Any abstract that is overly critical of prior work, it will be rejected (*).
+- The remaining abstracts will be sorted according to (a) interestingness and (b) correctness.  
 
 The top 10 abstracts (or more, if there is time), will be invited to give lightning talks.
 
@@ -83,12 +72,6 @@ The top 10 abstracts (or more, if there is time), will be invited to give lightn
 =====================
 DEFINITIONS:
 
-ROSE adopts the ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
+ROSE adopts the    ACM artifact badging conventions. ROSE seeks replicated and reproduced results defined as follows:
 
-Functional artifacts=  Artifacts documented, consistent, complete, exercisable, and include appropriate evidence of verification and validation.
-
-Available artifacts= Functional + Placed on a publicly accessible archival repository. A DOI or link to this repository along with a unique identifier for the object is provided.
-
-Replicated artifacts = Available + main results of the paper have been obtained in a subsequent study by a person or team other than the authors, using, in part, artifacts provided by the author. Note: someone else downloading and running exactly your scripts is **NOT** a replication since something  (possible something small) must be changed in the replication study.
-
-Reproduced artifacts= Available + The main results of the paper have been independently obtained in a subsequent study by a person or team other than the authors, without the use of author-supplied artifacts. 
+![](etc/img/acm.png)
