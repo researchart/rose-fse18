@@ -1,15 +1,23 @@
 # Call for Presentations
 
-The ROSE Festival, FSE 2018   
-Recognizing and Rewarding Open Science in Software Engineering      
-http://tiny.cc/rosefest     
+Due Sept 15, 2018
 
-﻿
+The ROSE Festival, FSE 2018   
+Recognizing and Rewarding Open Science in Software Engineering  
+Co-lcated with  [FSE 2018](https://2018.fseconference.org/track/fse-2018-The-ROSE-Festival-Recognizing-and-Rewarding-Open-Science-in-Software-Engineering). 
+
+![](etc/img/rose.png)     
+
+
 
 Chairs:
-Robert Feldt, Chalmers Institute of Technology, Sweden
-Tim Menzies, NC State University, USA
-Thomas Zimmermann, Microsoft Research, USA
+
+- Robert Feldt, Chalmers Institute of Technology, Sweden
+- Tim Menzies, NC State University, USA
+- Thomas Zimmermann, Microsoft Research, USA
+
+_____
+## Aim
 
 The ROSE festival is a world-wide salute to replication and reproducibility in SE (for a definition of these terms, see the end of this CFP).
 
@@ -21,8 +29,8 @@ ROSE is a non-archival forum. Material presented at ROSE may also be submitted t
 
 A journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
 
-=========================
-HOW TO SUBMIT:
+____
+## HOW TO SUBMIT:
 
 Submissions  to ROSE are a abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
