@@ -48,6 +48,7 @@ Note that
 
 ## BUT WHAT IS A "FISH-BOWL PANEL"?
 
+ <img src="etc/img/fish.png" align=right>
  From [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_(conversation)):
 
 - Four to five chairs are arranged in an inner circle. This is the fishbowl. 
@@ -58,6 +59,6 @@ Note that
 = In an open fishbowl, any member of the audience can, at any time, occupy the empty chair and join the fishbowl. When this happens, an existing member of the fish-  bowl must voluntarily leave the fishbowl and free a chair. 
 - The discussion continues with participants frequently entering and leaving the fishbowl.  
 
-![](etc/img/fish.png)
+
 
 
