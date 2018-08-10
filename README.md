@@ -49,7 +49,9 @@ Note that
 ## BUT WHAT IS A "FISH-BOWL PANEL"?
 
  <img src="etc/img/fish.png" align=right>
+ 
  From [Wikipedia](http://en.wikipedia.org/wiki/Fishbowl_(conversation)):
+
 
 - Four to five chairs are arranged in an inner circle. This is the fishbowl. 
 - The remaining chairs are arranged in concentric circles outside the fishbowl.
