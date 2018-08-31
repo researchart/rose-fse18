@@ -1,10 +1,10 @@
 # Call for Presentations
 
-##  The ROSE Festival, FSE 2018 
+##  The ROSE Festival, ESEC/FSE 2018 
 ##  Recognizing and Rewarding Open Science in Software Engineering  
 
 Due Sept 15, 2018.  
-Co-lcated with  [FSE 2018](https://2018.fseconference.org/track/fse-2018-The-ROSE-Festival-Recognizing-and-Rewarding-Open-Science-in-Software-Engineering). 
+Co-located with  [ESEC/FSE 2018](https://2018.fseconference.org/track/rosefest-2018). 
 
 ![](etc/img/rose.png)     
 
