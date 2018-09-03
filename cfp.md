@@ -26,23 +26,24 @@ Enter ROSE. ROSE is a 90 minute session comprising lightning talks by researcher
 
 Note that:
 
-- ROSE is a non-archival forum. Material presented at ROSE may also be submitted to other forums. S 
-- A journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
+- ROSE is a non-archival forum. Material presented at ROSE may also be submitted to other forums.
+- Journal special issues are being planned to take the better ROSE-results to an archival publication. Venue TBD but, perhaps, the Empirical Software Engineering Journal.
 
- 
+
 ## HOW TO SUBMIT:
 
 Email submission to timm@ieee.org with the subject line "ROSE-FSE18 submission".
 
-Submissions  to ROSE are an abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
+Submissions to ROSE are an abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
 - A prior SE publication (Paper1) which has been replicated/reproduced.
 - Substantive evidence that that parts of Paper1 has been replicated/reproduced. This evidence must be substantive e.g.
      - A recent research SE paper (Paper2)
      - A Url links to an as yet unpublished pre-print
 
-
 Note that Paper1 and Paper2 can come from any SE venue (ideally, peer-reviewed but if otherwise, reviewers will assess the paper on a case-by-case basis).
+
+We also welcome methodological (meta) papers that help promote, facilitate or increase understanding about open science, replication and reproduction of software engineering research.
 
 To facilitate easy reviewing, authors are encouraged to following the following format for their abstract:
 
@@ -54,10 +55,9 @@ To facilitate easy reviewing, authors are encouraged to following the following 
 - WHERE: describe the replication/reproduction. If the replication/reproduction was only partial, then explain what parts could be achieved or had to be missed.
 - DISCUSSION: What aspects of this thing made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.
 
-
+Naturally, meta papers might need a different structure so if you are planning to do a meta talk please contact the chairs.
 
 ## EVALUATION:
-
 
 - 2 PC members will review each abstract, possibly reaching out to the authors of the original Paper1.   Abstracts will be ranked as follows.
 - If pc members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.  
@@ -65,7 +65,6 @@ To facilitate easy reviewing, authors are encouraged to following the following 
 - The remaining abstracts will be sorted according to (a) interestingness and (b) correctness.  
 
 The top 10 abstracts (or more, if there is time), will be invited to give lightning talks.
-
 
 (*) Our goal is to foster a positive environment that supports and rewards researchers for conducting replications and reproductions.  To that end, we require that all ROSE abstracts and presentations pay due respect to the work they are reproducing/replicating. Criticisms of prior work is acceptable only as part of a balanced and substantive discussion of prior accomplishments.
 
