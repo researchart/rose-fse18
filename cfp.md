@@ -32,7 +32,7 @@ Note that:
 
 ## HOW TO SUBMIT:
 
-Email submission to timm@ieee.org with the subject line "ROSE-FSE18 submission".
+Submit your proposal to [Easychair](https://easychair.org/conferences/conference_dir.cgi?a=19769643).
 
 Submissions to ROSE are an abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
