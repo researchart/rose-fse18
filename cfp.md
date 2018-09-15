@@ -16,7 +16,7 @@ Review Committee:
      - Tim Menzies, NC State University, USA
      - Thomas Zimmermann, Microsoft Research, USA
 - Program Committee:
-     - Leandro	Minkum University of Leicester, UK
+     - Leandro	Minku, University of Leicester, UK
      - Neil	Ernst, 	University of Victoria, Canda 
      - Daniel	Méndez, Technical University of Munich, Germany 
      - Sira	Vegas, Universidad Politécnica de Madrid, Spain
