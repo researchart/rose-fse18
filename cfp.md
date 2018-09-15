@@ -17,8 +17,8 @@ Co-located with  [ESEC/FSE 2018](https://2018.fseconference.org/track/rosefest-2
      - Neil	Ernst, 	University of Victoria, Canda 
      - Daniel	Méndez, Technical U.Munich, Germany 
      - Sira	Vegas, Universidad Politécnica de Madrid, Spain
-     - Chakkrit	Tantithamthavorn, University of Adelaide, Australia
-     - Martin	Monperrus, U.Lille & INRIA, Sweden
+     - Chakkrit	Tantithamthavorn, U.Adelaide, Australia
+     - Martin	Monperrus, Univesity of Lille & INRIA, Sweden
 
  
 ## Aim
