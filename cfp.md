@@ -9,11 +9,19 @@ Co-located with  [ESEC/FSE 2018](https://2018.fseconference.org/track/rosefest-2
 ![](etc/img/rose.png)     
 
 
-Chairs:
+Review Committee:
 
-- Robert Feldt, Chalmers Institute of Technology, Sweden
-- Tim Menzies, NC State University, USA
-- Thomas Zimmermann, Microsoft Research, USA
+- Chairs and organizers:
+     - Robert Feldt, Chalmers Institute of Technology, Sweden
+     - Tim Menzies, NC State University, USA
+     - Thomas Zimmermann, Microsoft Research, USA
+- Program Committee:
+     - Leandro	Minkum University of Leicester, UK
+     - Neil	Ernst, 	University of Victoria, Canda 
+     - Daniel	Méndez, Technical University of Munich, Germany 
+     - Sira	Vegas, Universidad Politécnica de Madrid, Spain
+     - Chakkrit	Tantithamthavorn, University of Adelaide, Australia
+     - Martin	Monperrus, University of Lille & INRIA, Sweden
 
  
 ## Aim
