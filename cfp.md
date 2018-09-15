@@ -6,10 +6,7 @@
 Due Sept 15, 2018.  
 Co-located with  [ESEC/FSE 2018](https://2018.fseconference.org/track/rosefest-2018). 
 
-![](etc/img/rose.png)     
-
-
-Review Committee:
+<img align=right width=400 src="etc/img/rose.png">  
 
 - Chairs and organizers:
      - Robert Feldt, Chalmers Institute of Technology, Sweden
