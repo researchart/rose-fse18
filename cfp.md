@@ -15,10 +15,10 @@ Co-located with  [ESEC/FSE 2018](https://2018.fseconference.org/track/rosefest-2
 - Program Committee:
      - Leandro	Minku, University of Leicester, UK
      - Neil	Ernst, 	University of Victoria, Canda 
-     - Daniel	Méndez, Technical University of Munich, Germany 
+     - Daniel	Méndez, Technical U.Munich, Germany 
      - Sira	Vegas, Universidad Politécnica de Madrid, Spain
      - Chakkrit	Tantithamthavorn, University of Adelaide, Australia
-     - Martin	Monperrus, University of Lille & INRIA, Sweden
+     - Martin	Monperrus, U.Lille & INRIA, Sweden
 
  
 ## Aim
