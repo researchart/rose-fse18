@@ -1,7 +1,9 @@
 # Presentations accepted to ROSE'18    
     
     
-ROSE Festival, [FSE 2018](https://2018.fseconference.org/track/fse-2018-The-ROSE-Festival-Recognizing-and-Rewarding-Open-Science-in-Software-Engineering).  Recognizing and Rewarding Open Science in Software Engineering    
+[ROSE Festival](https://github.com/researchart/rose-fse18/blob/master/README.md),
+co-located with FSE 2018.
+Recognizing and Rewarding Open Science in Software Engineering    
     
 ![](../etc/img/rose.png)    
     
